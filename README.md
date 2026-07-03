@@ -5,7 +5,7 @@
 
 # HANIFE
 
-### Strategy • Business Intelligence • Data Science
+### Strategy • Business Intelligence • Artificial Intelligence
 
 ### Building Intelligent Organizations through Data & AI
 
@@ -22,7 +22,7 @@
 ---
 # 🎯 Executive Introduction
 
-MBA graduate with a strong foundation in strategic planning, organizational systems design, and business process optimization.
+MBA professional specializing in strategic planning, business intelligence, and data-driven organizational transformation.
 
 My professional focus lies at the intersection of business strategy, business intelligence, data analytics, and artificial intelligence.
 
@@ -66,6 +66,8 @@ I combine **business strategy**, **analytics**, and **artificial intelligence** 
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+Python for data analysis, automation, machine learning, and backend development.
+
 </td>
 
 <td valign="top" width="25%">
@@ -75,6 +77,8 @@ I combine **business strategy**, **analytics**, and **artificial intelligence** 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow" />
 </p>
+
+Data analysis, machine learning, statistical modeling, and deep learning.
 
 </td>
 
@@ -88,29 +92,24 @@ I combine **business strategy**, **analytics**, and **artificial intelligence** 
 
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
 
+Building scalable APIs and intelligent backend services.
+
 </td>
 
 <td valign="top" width="25%">
 
-### 🗄 Database & Tools
+### 🛠 Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,jupyter" />
 </p>
 
+Databases, version control, development, and experimentation.
+
 </td>
 
 </tr>
 </table>
-
-### 📈 Business Intelligence & Analytics
-
-- Power BI
-- KPI Framework Design
-- Executive Dashboard Design
-- Data Visualization
-- Statistical Analysis
-- Business Performance Reporting
 
 ---
 ## 🌟 Signature Expertise
@@ -182,6 +181,11 @@ Deep Learning 🚀
  │
  ▼
 AI-Driven Decision Intelligence
+
+ │
+ ▼
+Intelligent Organizations
+
 ```
 
 > **Continuous learning is the foundation of sustainable innovation.**
@@ -242,7 +246,7 @@ I aspire to bridge the gap between **business strategy**, **data science**, and 
 ---
 ## 🎯 Career Objective
 
-Seeking opportunities to contribute to organizations that value strategic thinking, business intelligence, and AI-driven innovation.
+I seek opportunities to contribute to organizations where strategy, business intelligence, and artificial intelligence converge to create measurable business impact.
 
 My long-term goal is to design intelligent systems that transform data into strategic advantage and sustainable organizational growth.
 
@@ -261,6 +265,20 @@ My goal is to transform:
 Every project I build is designed with measurable impact, scalability, and long-term value in mind.
 
 ---
+## 🌐 Open to Collaboration
+
+I welcome collaboration on projects related to:
+
+- Business Intelligence
+- Data Analytics
+- Machine Learning
+- Organizational Strategy
+- AI-Driven Decision Support
+- Process Automation
+
+If our interests align, feel free to connect or collaborate.
+
+---
 ## 🌍 Connect With Me
 
 <div align="center">
@@ -269,7 +287,7 @@ Every project I build is designed with measurable impact, scalability, and long-
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Fatih alrahman Hanife">
+<a href="https://linkedin.com/in/FatihalrahmanHanife">
 <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
