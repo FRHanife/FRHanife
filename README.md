@@ -20,12 +20,6 @@
 </div>
 
 ---
-
-# 👋 Welcome
-
-> *"Helping organizations transform strategy into measurable results through data, business intelligence, and artificial intelligence."*
-
----
 # 🎯 Executive Introduction
 
 MBA graduate with a strong foundation in strategic planning, organizational systems design, and business process optimization.
@@ -37,86 +31,26 @@ I am passionate about designing intelligent systems that help organizations make
 ---
 ## 🧭 Professional Identity
 
-<table>
-<tr>
-<td width="50%">
+I am an MBA graduate with a multidisciplinary background spanning **strategy, business intelligence, data analytics, and artificial intelligence**.
 
-### 🎓 Education
-Master of Business Administration (MBA)
+My work focuses on helping organizations transform data into actionable insights, strategic decisions, and measurable business outcomes.
 
-### 📊 Current Focus
-Data Science • Business Intelligence • Deep Learning
-
-### 💼 Professional Domain
-Strategy • Analytics • Intelligent Systems
-
-</td>
-
-<td width="50%">
-
-### 🎯 Core Expertise
-- Strategic Planning
-- KPI Design
-- Business Process Engineering
-- Data Analytics
-- Decision Support Systems
-
-### 🌍 Mission
-Building intelligent organizations through strategy, data, and AI.
-
-</td>
-</tr>
-</table>
+Currently, I am expanding my expertise in **Deep Learning**, **Data Engineering**, and **AI-driven decision intelligence** while building practical solutions that bridge business and technology.
 
 ---
 ## 🏛 Executive Capabilities
 
-<table>
-<tr>
-<td width="33%">
-
-### 📈 Strategy
-
-- Strategic Planning
-- KPI Design
-- Policy Development
-- Organizational Excellence
-- Performance Management
-
-</td>
-
-<td width="33%">
-
-### 📊 Data
-
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Statistical Analysis
-- Decision Support Systems
-
-</td>
-
-<td width="33%">
-
-### 🤖 AI
-
-- Machine Learning
-- Deep Learning *(Learning)*
-- Intelligent Automation
-- AI-powered Analytics
-- Predictive Modeling
-
-</td>
-
-</tr>
-</table>
+| Strategy | Data | Artificial Intelligence |
+|-----------|------|-------------------------|
+| Strategic Planning | Data Analytics | Machine Learning |
+| KPI & Performance Management | Business Intelligence | Deep Learning *(Current Focus)* |
+| Process & Policy Design | Data Visualization | AI-Driven Decision Intelligence |
 
 ---
 
 ### 💡 Value Proposition
 
-I bridge **strategy, business intelligence, and artificial intelligence** to help organizations transform data into measurable business value and evidence-based decisions.
+I combine **business strategy**, **analytics**, and **artificial intelligence** to design data-driven solutions that improve organizational performance and support better decision-making.
 
 ---
 ## 🛠 Technology Stack
@@ -169,13 +103,14 @@ I bridge **strategy, business intelligence, and artificial intelligence** to hel
 </tr>
 </table>
 
-### 📈 Analytics & Business Intelligence
+### 📈 Business Intelligence & Analytics
 
 - Power BI
 - KPI Framework Design
-- Dashboard Development
+- Executive Dashboard Design
 - Data Visualization
 - Statistical Analysis
+- Business Performance Reporting
 
 ---
 ## 🌟 Signature Expertise
@@ -194,18 +129,18 @@ My approach combines:
 to help organizations make smarter, faster, and evidence-based decisions.
 
 ---
-## 🚀 Strategic Portfolio
+## 🚀 Portfolio Roadmap
 
-The following repositories represent the direction of my professional portfolio. Each project is designed to solve real organizational challenges through the integration of strategy, data, and artificial intelligence.
+The repositories below represent my professional roadmap and ongoing work. Each project is designed to solve practical organizational challenges through strategy, business intelligence, data analytics, and artificial intelligence.
 
-| Project | Purpose | Status |
-|---------|---------|--------|
-| 📊 Executive KPI Dashboard | Monitor organizational performance through executive KPIs and interactive dashboards | 🚧 In Progress |
-| 📈 Business Intelligence Dashboard | Transform business data into actionable executive insights | 🚧 Planned |
-| 🤖 AI Decision Support System | Apply AI models to support strategic and operational decisions | 🚧 Planned |
-| 🧠 Machine Learning Portfolio | Real-world machine learning projects from business and public-sector domains | ✅ Ongoing |
-| 🌐 Deep Learning Portfolio | Neural network and deep learning applications | 🚧 Learning |
-| ⚙ Process Automation Toolkit | Python automation solutions for administrative and business processes | 🚧 Planned |
+| Project | Focus Area | Status |
+|----------|------------|--------|
+| 📊 Executive KPI Dashboard | Executive KPI Monitoring & Performance Management | 🚧 In Progress |
+| 📈 Business Intelligence Dashboard | Executive Reporting & Business Insights | 🚧 Planned |
+| 🤖 AI Decision Support System | AI-Powered Decision Intelligence | 🚧 Planned |
+| 🧠 Machine Learning Portfolio | Predictive Analytics & Machine Learning Applications | ✅ Ongoing |
+| 🌐 Deep Learning Portfolio | Deep Learning & Neural Network Applications | 🚀 Current Focus |
+| ⚙ Business Process Automation Toolkit | Intelligent Process Automation with Python | 🚧 Planned |
 
 ---
 ## 📌 Current Focus
@@ -305,6 +240,13 @@ I aspire to bridge the gap between **business strategy**, **data science**, and 
 </div>
 
 ---
+## 🎯 Career Objective
+
+Seeking opportunities to contribute to organizations that value strategic thinking, business intelligence, and AI-driven innovation.
+
+My long-term goal is to design intelligent systems that transform data into strategic advantage and sustainable organizational growth.
+
+---
 ## 📈 Professional Impact
 
 I believe technology creates value only when it solves real organizational challenges.
@@ -323,11 +265,11 @@ Every project I build is designed with measurable impact, scalability, and long-
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:f.r.hanafi786@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/Fatih alrahman Hanife">
 <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
