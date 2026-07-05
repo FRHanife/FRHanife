@@ -3,12 +3,6 @@
 </p>
 <div align="center">
 
-# HANIFE
-
-### Strategy • Business Intelligence • Artificial Intelligence
-
-### Building Intelligent Organizations through Data & AI
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2500&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Intelligent+Organizations;Strategy+%E2%80%A2+Data+%E2%80%A2+Artificial+Intelligence;Business+Intelligence+%7C+Data+Science;Turning+Data+into+Strategic+Decisions"/>
 
 <br>
